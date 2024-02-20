@@ -1,7 +1,22 @@
 [
     {
         "id": "1",
-        "title":"Vacation Checklist",
-        "text":"Test text"
+        "title": "Vacation Checklist",
+        "text": "Test text"
+    },
+    {
+        "title": "Shopping List",
+        "text": "Milk\nBread \nEggs",
+        "id": "89bb"
+    },
+    {
+        "title": "Gardening Supplies",
+        "text": "gloves\nspade\nshovel\ntrowel\npruning shears\nmulch\ngarden hose\n",
+        "id": "e09c"
+    },
+    {
+        "title": "Birthday Presents",
+        "text": "headphones\ne-reader\nconcert tickets\nfitness tracker",
+        "id": "c0de"
     }
 ]
