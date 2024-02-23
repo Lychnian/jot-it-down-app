@@ -76,3 +76,33 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+
+@media only screen and (max-width: 600px) {
+  /* CSS styles for screens smaller than or equal to 600px */
+  .list-container .list-group-item {
+    border-left: none;
+    border-right: none;
+    padding: 8px;
+    cursor: pointer;
+  }
+
+.note-textarea {
+  color: #000000;
+  width: 100%;
+  font-size: large;
+  outline: none;
+  border: none;
+}
+
+.note-title {
+  color: #000000;
+  width: 100%;
+  font-size: xx-large;
+  overflow-wrap: break-word;
+  outline: none;
+  border: none;
+
+}
+
+}
