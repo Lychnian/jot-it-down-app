@@ -37,7 +37,7 @@ Jot It Down" is a dynamic, user-friendly note-taking application designed to cat
 - Use the interface to write, save, and manage your notes.
 OR
 The "Jot It Down" note-taking app is live and accessible for use! Experience its full functionality by visiting the deployed application on Heroku:
-  `https://jot-it-down-notes-ae5fda746450.herokuapp.com`
+https://jot-it-down-notes-ae5fda746450.herokuapp.com
 This link will take you directly to the app, where you can start creating and managing your notes right away.
 
 
