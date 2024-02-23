@@ -55,6 +55,17 @@ Jot It Down" is a dynamic, user-friendly note-taking application designed to cat
 ## Screenshots
 
 
+![JotItDown1](https://github.com/Lychnian/jot-it-down-app/assets/140586279/66c62dfc-213c-4c84-a10c-1f9a317b3749)
+
+
+
+![JotItDown2](https://github.com/Lychnian/jot-it-down-app/assets/140586279/5d0d8bfa-8119-4d19-a4cf-6a5db0d1344e)
+
+
+
+![JotItDown3](https://github.com/Lychnian/jot-it-down-app/assets/140586279/98686022-ac30-46f6-b04d-3227abcc269b)
+
+
   
 ## How to Contribute
 [Contributor Covenant](https://www.contributor-covenant.org/)  
